@@ -1,2 +1,2 @@
-# Rolling-Hash-Karp-Rabin
+# rolling-hash-rapin-karp
 Created with CodeSandbox
