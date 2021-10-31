@@ -6,7 +6,8 @@ class RabinKarp {
   }
   /* initialise require vals */
   initialise(haystack, needle, charSetCodeLength) {
-    debugger;
+    if (!haystack || !needle) return [];
+    // debugger;
     const result = [];
     this.haystack = haystack;
     this.needle = needle;
